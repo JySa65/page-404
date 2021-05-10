@@ -69,6 +69,7 @@
   border: 0;
   color: #fff;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .footer {
@@ -137,7 +138,6 @@
   .main {
     height: unset;
     flex-direction: column;
-    /* padding: 0 10px; */
   }
   .footer {
     position: static;
@@ -154,7 +154,6 @@
     font-size: 48px;
     line-height: 60px;
   }
-
   .main__children-content {
     margin: 20px 0;
   }
